@@ -4,8 +4,8 @@
 
 Thành viên:
 * [x] **1412538** Phan Hữu Thuận (redhead9796)
-* [ ] **MSSV2** Tên sinh viên 2 (tên tài khoản github)
-* [ ] **MSSV3** Tên sinh viên 2 (tên tài khoản github)
+* [x] **1412557** Phạm Đức Toàn (NhoxToong)
+* [x] **1412604** Lữ Hoàng Phi Tuấn (tên tài khoản github)
 
 ## Yêu cầu
 
@@ -36,7 +36,7 @@ Liệt kê các **yêu cầu nâng cao** đã thực hiện:
 Link ảnh GIF demo ứng dụng:
 
 ![Video Walkthrough](demo.gif)
-
+http://imgur.com/8NTlKiO
 Tạo ảnh GIF với chương trình [LiceCap](http://www.cockos.com/licecap/).
 
 
